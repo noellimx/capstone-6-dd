@@ -28,7 +28,7 @@
     1.2 Navigate to Voucher Store   |               |                  |            |               |
 2.  Purchase Voucher                |               |                  |            |               |
     2.1 Choose                      |               |                  |            |               |
-    2.1 Pay                         |               |                  |            |               |
+    2.2 Pay                         |               |                  |            |               |
 3.  Apply Voucher                   |               |                  |            |               |
     3.1 Choose Item                 |               |                  |            |               |
     3.2 Apply voucher               |               |                  |            |               |
