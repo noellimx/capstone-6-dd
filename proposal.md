@@ -1,5 +1,4 @@
-Proposal
-
+# Proposal
 # Voucher Ecosystem
 
 
@@ -13,6 +12,7 @@ Consumer-oriented applications are widely used to provide goods and services via
 
 
 ```
+    --- Current Flow ---
 1.  foodpanda generates and advertise voucher codes.
 2.  Consumer saves voucher via voucher code.
 3.  Consumer applies the voucher during checkout.
@@ -20,7 +20,7 @@ Consumer-oriented applications are widely used to provide goods and services via
 
 ### Hypothesis
 
-We propose to introduce dollar-for-dollar gift vouchers that are transferrable and purchased by consumers and with the assumed benefits:
+We propose to introduce dollar-for-dollar gift vouchers that are transferrable and purchased by consumers with the assumed benefits:
 
 1. Value Lock-in - Capture spending avenue from consumer and obtain early cash flow from voucher purchases.
 2. Social Engagement - Increase user in-app activity and consumer-to-consumer interaction. We also hope this feature broadens user account base by providing a motivation to sign up with foodpanda.
