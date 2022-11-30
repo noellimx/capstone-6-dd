@@ -1,14 +1,11 @@
 # Proposal
 # Voucher Ecosystem
 
-
-## Glossary and Terms
-
-## Problem Statement
-
 ### Introduction
 
 Consumer-oriented applications are widely used to provide goods and services via digital payments. Often, in-app vouchers are issued to encourage consumers to spend and increase order value. Today, foodpanda offers vouchers in the form of "promo code" or "voucher code" to be exchangeable for a voucher. These vouchers are generated in-house for foodpanda campaigns targeting specific product lines, locations and vendors (to name a few policy parameters). In the foodpanda app, a consumer exchanges these voucher codes for vouchers which are saved in their account.
+
+## Problem Statement
 
 
 ```
