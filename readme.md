@@ -9,5 +9,5 @@ Trunk-based.
 All references should point here to links, files and documents. Readmes can be created in nested folders for expositions.
 
 # Confluence
+https://noellimx.atlassian.net/wiki/spaces/FPCAPSTONE/overview
 
-https://github.com/noellimx/capstone-6-dd.git
